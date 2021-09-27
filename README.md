@@ -1,3 +1,4 @@
-git clone https://github.com/Sanif007/sms-scammer
-pip install request
-cd sms-scammer
+$ git clone https://github.com/evildevill/entropy
+$ cd entropy
+$ chmod +x install.sh
+$ ./install.sh
